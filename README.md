@@ -1,2 +1,2 @@
 # KagglePlayground
-Repository for Kaggle Playgrounds for SI (STV)
+Repository for Kaggle Playgrounds for the GBS Data Science Team
